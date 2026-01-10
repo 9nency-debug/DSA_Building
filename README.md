@@ -6,6 +6,47 @@ This repository contains **pattern printing programs in C++**, starting from **a
 
 ---
 
+## 🧩 Levels Covered
+
+### 🟢 Beginner
+- Single line patterns
+- Basic star patterns
+- Simple number patterns
+- Input-based patterns
+- Understanding loops (for, while)
+
+### 🟡 Intermediate
+- Multi-line patterns
+- Square and rectangle patterns
+- Right & inverted triangles
+- Number-based patterns
+- Pattern variations using conditions
+
+### 🔴 Advanced
+- Pyramid and inverted pyramid
+- Diamond patterns
+- Hollow patterns
+- Butterfly patterns
+- Complex mixed star & number patterns
+- Optimized logic with minimal loops
+
+---
+
+## 🛠 Language Used
+- **C++**
+
+---
+
+## 📂 Repository Structure
+The patterns are organized in a structured way for easy learning.
+
+Each folder contains:
+- Well-named `.cpp` files  
+- Clean and readable code  
+- Beginner-friendly logic  
+
+---
+
 ## 📌 Why Pattern Programming?
 Pattern problems help you:
 - Understand **loops and nested loops**
@@ -17,27 +58,12 @@ Mastering patterns makes learning arrays, strings, recursion, and advanced DSA t
 
 ---
 
-## 📂 Repository Structure
-The patterns are organized in a structured way for easy learning:
-
-Each folder contains:
-- Well-named `.cpp` files  
-- Clean and readable code  
-- Beginner-friendly logic  
-
----
-
 ## 🚀 Who Is This Repository For?
 This repository is helpful for:
 - Absolute **beginners in C++**
 - Students starting **DSA**
 - Anyone who wants to **master loops**
 - Learners preparing for **coding interviews**
-
----
-
-## 🛠 Language Used
-- **C++**
 
 ---
 
@@ -56,6 +82,13 @@ Contributions are welcome!
 - Suggest optimizations or better logic
 
 Feel free to open a **pull request** or **issue**.
+
+---
+
+## ✨ Author
+Your Name
+B.Tech IT Student
+Learning C++ & DSA
 
 ---
 
