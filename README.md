@@ -87,7 +87,7 @@ Feel free to open a **pull request** or **issue**.
 
 ## ✨ Author
 Your Name
-B.Tech IT Student
+B.Tech IT Student 
 Learning C++ & DSA
 
 ---
